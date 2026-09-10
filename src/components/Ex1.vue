@@ -13,10 +13,7 @@ function mOver() {
 
 function mOut() {
     // add code here
-   id.value="circle"
-
-
-   
+    id.value="circle"
 }
 </script>
 
